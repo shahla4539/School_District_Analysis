@@ -79,4 +79,14 @@ As it is clearly visible in the images there is a very sligh change in the metri
 
 ### * Scores by school size
 
+before
+![image](https://user-images.githubusercontent.com/105535250/179385915-e02ca353-63a8-4c48-b03d-73fca13fdb3f.png)
+
+
 ### * Scores by school type
+before
+![image](https://user-images.githubusercontent.com/105535250/179385941-3b461d21-9caf-44de-b84a-9bcde0d6259d.png)
+
+after
+![image](https://user-images.githubusercontent.com/105535250/179386057-5a73a04a-2391-41a0-af76-be6c1843c1d3.png)
+
