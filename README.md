@@ -11,6 +11,10 @@ This data will provide the insight about the school`s performance trends and pat
 
 I will be helping Maria analyze data on **School Funding** and **Student Standardized Test Scores**. I have access to every student`s Math and Reading scores as well as various information on the school they attend. My task is to aggregate data and showcase trends in school performances. This analysis will assist the board in school budgeting and also on setiing priorites. We will be handling data with confidentiality abiding the Family Educational Rights and Privacy Act (FERPA) to protects the students. 
 
+### Development in Project:
+ 
+Later the school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Therefore they want to uphold state-testing standards and asked Maria for help. I will help Maria to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once I will replace the math and reading scores, I will repeat the school district analysis.
+
 # Results:
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
