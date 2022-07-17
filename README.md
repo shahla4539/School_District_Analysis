@@ -79,18 +79,19 @@ As it is clearly visible in the images there is a very sligh change in the metri
 
 ### * Scores by school size
 
-before
+Based on the final results, there is no change in metrics based on the school size. 
+
 ![image](https://user-images.githubusercontent.com/105535250/179385915-e02ca353-63a8-4c48-b03d-73fca13fdb3f.png)
 
-after
-![image](https://user-images.githubusercontent.com/105535250/179386109-02c78d93-56cf-41d9-b419-82f4b5303585.png)
+
 
 
 
 ### * Scores by school type
-before
+
+There is no affect on metrics based on school type as well.
+
 ![image](https://user-images.githubusercontent.com/105535250/179385941-3b461d21-9caf-44de-b84a-9bcde0d6259d.png)
 
-after
 
 
