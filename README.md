@@ -82,11 +82,15 @@ As it is clearly visible in the images there is a very sligh change in the metri
 before
 ![image](https://user-images.githubusercontent.com/105535250/179385915-e02ca353-63a8-4c48-b03d-73fca13fdb3f.png)
 
+after
+![image](https://user-images.githubusercontent.com/105535250/179386109-02c78d93-56cf-41d9-b419-82f4b5303585.png)
+
+
 
 ### * Scores by school type
 before
 ![image](https://user-images.githubusercontent.com/105535250/179385941-3b461d21-9caf-44de-b84a-9bcde0d6259d.png)
 
 after
-![image](https://user-images.githubusercontent.com/105535250/179386057-5a73a04a-2391-41a0-af76-be6c1843c1d3.png)
+
 
