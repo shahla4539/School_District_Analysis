@@ -52,6 +52,15 @@ Similarly, the school summary also got affected but just in the Thomas High Scho
 
 ### * Math and reading scores by grade
 
+It only changes the vallue of 9th grader Math score to nan. Rest of the grades metrics are still intact.
+
+![image](https://user-images.githubusercontent.com/105535250/179384993-e888b75d-4ed9-429d-a0d4-3c07d6064c33.png)
+
+Similarly, it only changes the vallue of 9th graders Reading score to nan. Rest of the grades metrics are still intact.
+
+![image](https://user-images.githubusercontent.com/105535250/179385014-ae594cdd-d320-40da-91db-94f0347b6fb6.png)
+
+
 ### * Scores by school spending
 
 ### * Scores by school size
