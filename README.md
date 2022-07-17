@@ -24,11 +24,9 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 After repeating the analysis the district summary changes in almost every aspect. As we replaced the Math and Reading scores for 9th graders  with  **nan**, the codes I applied ignored the related information and that resulted in reduce of all the figures.
 
 #### District Metrics Before the change:
-
 ![District_before](https://user-images.githubusercontent.com/105535250/179383709-e0866d68-b5dc-4685-b464-66e3c1d2004a.PNG)
 
 ### District Metrics After the change:
-
 ![District_After](https://user-images.githubusercontent.com/105535250/179383691-74e324c6-fc5f-4cbd-a8b8-af97b954f393.PNG)
 
 ## Affects on School Summary:
@@ -65,9 +63,13 @@ Similarly, it only changes the vallue of 9th graders Reading score to nan. Rest 
 
 
 Spending Metrics Before the change:
+
+![image](https://user-images.githubusercontent.com/105535250/179385848-0418ffec-fe07-4cfe-897e-854663dd4368.png)
 ![spending_before](https://user-images.githubusercontent.com/105535250/179385570-0395ed09-5ce3-4626-abda-1b767d3adbfb.PNG)
 
 Spending Metrics After the change:
+
+![image](https://user-images.githubusercontent.com/105535250/179385857-db6d5187-099d-4e1a-9ad2-ce3e751aeacb.png)
 ![spending_after](https://user-images.githubusercontent.com/105535250/179385597-6a40c1a3-ee47-45fa-9919-3958cc269975.PNG)
 
 As it is clearly visible in the images there is a very sligh change in the metrics based on spendinf bins. 
