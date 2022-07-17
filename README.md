@@ -94,5 +94,7 @@ There is no affect on metrics based on school type as well.
 
 ![image](https://user-images.githubusercontent.com/105535250/179385941-3b461d21-9caf-44de-b84a-9bcde0d6259d.png)
 
+# Summary:
 
+After completing my analysis, I have prepared my report stating how the replacing of 9th graders Math and Reading scores affected the final results. I was able to keep rest of the information intact. It only reflects the change in Thomas High School metrics. 
 
