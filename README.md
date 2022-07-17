@@ -19,7 +19,19 @@ Later the school board has notified Maria and her supervisor that the students_c
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-How is the district summary affected?
+## Affects on District Summary:
+
+After repeating the analysis the district summary changes in almost every aspect. As we replaced the Math and Reading scores for 9th graders  with  **nan**, the codes I applied ignored the related information and that resulted in reduce of all the figures.
+
+#### District Before the change:
+
+![District_before](https://user-images.githubusercontent.com/105535250/179383709-e0866d68-b5dc-4685-b464-66e3c1d2004a.PNG)
+
+### District After the change:
+
+![District_After](https://user-images.githubusercontent.com/105535250/179383691-74e324c6-fc5f-4cbd-a8b8-af97b954f393.PNG)
+
+
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
