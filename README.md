@@ -68,6 +68,8 @@ Similarly, it only changes the vallue of 9th graders Reading score to nan. Rest 
 
 ### Scores by school spending
 
+It is clearly visible in the images that there is a very sligh change in the metrics based on spendinf bins. 
+
 Spending Metrics Before the change:
 
 ![image](https://user-images.githubusercontent.com/105535250/179385848-0418ffec-fe07-4cfe-897e-854663dd4368.png)
@@ -78,7 +80,7 @@ Spending Metrics After the change:
 ![image](https://user-images.githubusercontent.com/105535250/179385857-db6d5187-099d-4e1a-9ad2-ce3e751aeacb.png)
 ![spending_after](https://user-images.githubusercontent.com/105535250/179385597-6a40c1a3-ee47-45fa-9919-3958cc269975.PNG)
 
-As it is clearly visible in the images there is a very sligh change in the metrics based on spendinf bins. 
+
 
 ### Scores by school size
 
