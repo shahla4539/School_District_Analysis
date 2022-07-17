@@ -44,18 +44,19 @@ Similarly, the school summary also got affected but just in the Thomas High Scho
 
 ## Affects of replacing the ninth graders’ math and reading scores on Thomas High School’s performance relative to the other schools:
 
-After the change in 9th graders Math and Reading scores, Thomas High School lost its position 
+After the change in the 9th graders Math and Reading scores, Thomas High School was able to maintain its position in top five performing school along with minor changes in metrics.
+
+Before the Change:
+
 ![image](https://user-images.githubusercontent.com/105535250/179386365-03ed2d2b-3690-4a67-84cd-7c5dff7a032a.png)
 
+After the Change:
 
 ![image](https://user-images.githubusercontent.com/105535250/179386467-1c001591-b1d8-43ae-a6d6-1d04c11fa6c3.png)
 
-
-
-
 ## Replacing the ninth-grade scores affect on the following:
 
-### * Math and reading scores by grade
+### Math and reading scores by grade
 
 It only changes the vallue of 9th grader Math score to nan. Rest of the grades metrics are still intact.
 
@@ -65,9 +66,7 @@ Similarly, it only changes the vallue of 9th graders Reading score to nan. Rest 
 
 ![image](https://user-images.githubusercontent.com/105535250/179385014-ae594cdd-d320-40da-91db-94f0347b6fb6.png)
 
-
-### * Scores by school spending
-
+### Scores by school spending
 
 Spending Metrics Before the change:
 
@@ -81,20 +80,13 @@ Spending Metrics After the change:
 
 As it is clearly visible in the images there is a very sligh change in the metrics based on spendinf bins. 
 
-
-
-
-### * Scores by school size
+### Scores by school size
 
 Based on the final results, there is no change in metrics based on the school size. 
 
 ![image](https://user-images.githubusercontent.com/105535250/179385915-e02ca353-63a8-4c48-b03d-73fca13fdb3f.png)
 
-
-
-
-
-### * Scores by school type
+### Scores by school type
 
 There is no affect on metrics based on school type as well.
 
