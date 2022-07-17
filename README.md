@@ -44,12 +44,16 @@ Similarly, the school summary also got affected but just in the Thomas High Scho
 
 ![school_after](https://user-images.githubusercontent.com/105535250/179384217-7751e698-66a7-49f4-89d4-50d4c58c7091.PNG)
 
+## Affects of replacing the ninth graders’ math and reading scores on Thomas High School’s performance relative to the other schools:
 
 
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+
+## Replacing the ninth-grade scores affect on the following:
+
+### * Math and reading scores by grade
+
+### * Scores by school spending
+
+### * Scores by school size
+
+### * Scores by school type
