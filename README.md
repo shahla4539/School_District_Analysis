@@ -63,6 +63,9 @@ Similarly, it only changes the vallue of 9th graders Reading score to nan. Rest 
 
 ### * Scores by school spending
 
+![image](https://user-images.githubusercontent.com/105535250/179385163-6d51bd6d-97b3-4065-b7dc-2a91f4999ce4.png)
+
+
 ![image](https://user-images.githubusercontent.com/105535250/179385123-ec59e00a-385e-48f4-9f68-fa1a6e015b28.png)
 
 
